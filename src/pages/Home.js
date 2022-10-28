@@ -21,8 +21,8 @@ function Home() {
         </div>
       </div>
       <div className="home__body">
-        <img
-          src="https://www.osundefender.com/wp-content/uploads/2017/07/google.jpg"
+        <img className="google__img"
+          src="https://trueinteractive.com/wp-content/uploads/2018/11/fixed-google-logo-font.png"
           alt=""
           />
           

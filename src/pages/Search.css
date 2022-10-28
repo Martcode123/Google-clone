@@ -49,4 +49,9 @@
     background-color: #f8f8f8;
     border: 1px solid #c6c6c6;
     color: #222;
+
+}
+
+.search__btns--Hidden {
+    display: none !important;
 }
